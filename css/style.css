@@ -1,0 +1,300 @@
+.dropdown-menu {
+    right: auto !important;
+    left: 0px;
+    float: right;
+    text-align: right;
+}
+.navbar{
+    margin-bottom: 0;
+}
+#logo{
+    background-color: #455E73;
+    padding: 10px;
+}
+.art_bg{
+    background-color: #F8F8F8;
+    border: 1px solid #E7E7E7;
+}
+/******************************************/
+.btn{
+    border-radius: 0px;
+}
+
+#myCarousel .nav a small {
+    display:block;
+}
+#myCarousel .nav {
+    background:#eee;
+}
+#myCarousel .nav a {
+    border-radius:0px;
+}
+#myCarousel .nav-pills>li {
+    float: none;
+}
+
+#footertext{
+    padding: 20px;
+    font-size: 18px;
+    color: #D6D6D6;
+}
+/* Tabs panel */
+.tabbable-panel {margin-bottom: 20px;}
+
+/* Default mode */
+.tabbable-line > .nav-tabs {
+    border: none;
+    margin: 0px;
+}
+.tabbable-line > .nav-tabs > li {
+    margin-right: 2px;
+}
+.tabbable-line > .nav-tabs > li > a {
+    border: 0;
+    margin-right: 0;
+    color: #737373;
+}
+.tabbable-line > .nav-tabs > li > a > i {
+    color: #a6a6a6;
+}
+.tabbable-line > .nav-tabs > li.open, .tabbable-line > .nav-tabs > li:hover {
+    border-bottom: 4px solid #fbcdcf;
+}
+.tabbable-line > .nav-tabs > li.open > a, .tabbable-line > .nav-tabs > li:hover > a {
+    border: 0;
+    background: none !important;
+    color: #333333;
+}
+.tabbable-line > .nav-tabs > li.open > a > i, .tabbable-line > .nav-tabs > li:hover > a > i {
+    color: #a6a6a6;
+}
+.tabbable-line > .nav-tabs > li.open .dropdown-menu, .tabbable-line > .nav-tabs > li:hover .dropdown-menu {
+    margin-top: 0px;
+}
+.tabbable-line > .nav-tabs > li.active {
+    border-bottom: 4px solid #f3565d;
+    position: relative;
+}
+.tabbable-line > .nav-tabs > li.active > a {
+    border: 0;
+    color: #333333;
+}
+.tabbable-line > .nav-tabs > li.active > a > i {
+    color: #404040;
+}
+.tabbable-line > .tab-content {
+    margin-top: -3px;
+    background-color: #fff;
+    border: 0;
+    border-top: 1px solid #eee;
+    padding: 15px 0;
+}
+.portlet .tabbable-line > .tab-content {
+    padding-bottom: 0;
+}
+
+/* Below tabs mode */
+
+.tabbable-line.tabs-below > .nav-tabs > li {
+    border-top: 4px solid transparent;
+}
+.tabbable-line.tabs-below > .nav-tabs > li > a {
+    margin-top: 0;
+}
+.tabbable-line.tabs-below > .nav-tabs > li:hover {
+    border-bottom: 0;
+    border-top: 4px solid #fbcdcf;
+}
+.tabbable-line.tabs-below > .nav-tabs > li.active {
+    margin-bottom: -2px;
+    border-bottom: 0;
+    border-top: 4px solid #f3565d;
+}
+.tabbable-line.tabs-below > .tab-content {
+    margin-top: -10px;
+    border-top: 0;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
+}
+
+.circle{
+    height: 100px;
+    width: 108px;
+    padding: 2px;
+    border-radius: 50%;
+    border: solid 1px #E7E7E7;
+}
+
+.cat_post{
+    padding: 5px;
+    margin: 10px 0;
+    background-color: #FFF;
+    border: 1px solid #E7E7E7;
+}
+.cat_h2{
+    margin: 0 0 5px 0;
+    padding: 5px;
+    background: #4c90cb;
+    color: #FFF;
+}
+
+.post
+{
+    background-color: #FFF;
+    overflow: hidden;
+    box-shadow: 0 0 1px #CCC;
+}
+.post .content
+{
+    padding: 15px;
+}
+.post .author
+{
+    font-size: 11px;
+    color: #737373;
+    padding: 10px 10px 10px 10px;
+    text-align: right;
+    background: #E8E8E8;
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid;
+}
+.post .post-img-content
+{
+    height: 185px;
+    position: relative;
+}
+.post .post-img-content img
+{
+    position: absolute;
+}
+.post .post-title
+{
+    display: table-cell;
+    vertical-align: bottom;
+    z-index: 2;
+    position: relative;
+}
+.post .post-title b
+{
+    background-color: rgba(51, 51, 51, 0.58);
+    display: inline-block;
+    margin-bottom: 5px;
+    color: #FFF;
+    padding: 10px 15px;
+    margin-top: 5px;
+}
+.tit_cat1{
+    padding: 8px;
+    background: #607D8B;
+    margin-bottom: 5px;
+    margin-right: 15px;
+    margin-left: 15px;
+    color: #fff;
+}
+.bg_cat2{
+    background: #fff;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+.bg_tab_topic{
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #F8F8F8;
+}
+.tit_cat2{
+    margin-right: -15px;
+    margin-left: -15px;
+    background: #607D8B;
+    margin-bottom: 0px;
+    padding: 8px;
+    color: #fff;
+}
+
+.a_1{
+    color: #fff;
+    text-decoration: none;
+}
+
+.a_1:hover{
+    color: #ccc;
+    text-decoration: none;
+}
+
+.copyright{background: #455E73;color: #E6E5E5;border-top: solid 2px #FF8507;margin-right: -15px;margin-left: -15px;font-size: 15px;}
+.copyright-img{padding:20px 0;}
+
+
+
+/* =============================================================================
+  socail media
+============================================================================= */
+
+.social-slide {
+    height: 48px;
+    width: 48px;
+    margin: 10px;
+    float: left;
+    -webkit-transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s;
+    -o-transition: all ease 0.3s;
+    -ms-transition: all ease 0.3s;
+    transition: all ease 0.3s;
+}
+.social-slide:hover {
+    background-position: 0px -48px;
+    box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+}
+.twitter-hover {
+    background-image: url('../images/icons/twitter-hover.png');
+    height: 48px;
+    width: 48px;
+    float: right;
+    margin-right: 65px;
+}
+.facebook-hover {
+    background-image: url('../images/icons/facebook-hover.png');
+    height: 48px;
+    width: 48px;
+    float: right;
+}
+.google-hover {
+    background-image: url('../images/icons/google-hover.png');
+    height: 48px;
+    width: 48px;
+    float: right;
+}
+.instagram-hover {
+    background-image: url('../images/icons/instagram-hover.png');
+    height: 48px;
+    width: 48px;
+    float: right;
+}
+.social-roll {
+    height: 48px;
+    width: 48px;
+    margin: 10px;
+    float: left;
+    border-radius: 50%;
+    -webkit-transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s;
+    -o-transition: all ease 0.3s;
+    -ms-transition: all ease 0.3s;
+    transition: all ease 0.3s;
+}
+.social-roll:hover {
+    box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+}
+.twitter-roll, .google-roll, .facebook-roll, .linkedin-roll, .pinterest-roll, .instagram-roll, .tumblr-roll, .reddit-roll, .stumbleupon-roll {
+}
+.social-roll:hover {
+    -webkit-transform:rotate(360deg);
+    -moz-transform:rotate(360deg);
+    -o-transform:rotate(360deg);
+    -ms-transform:rotate(360deg);
+    transform:rotate(360deg);
+}
+/*****************************************/
+
